@@ -1,0 +1,15 @@
+{
+  "name": "My New Hugo Site",
+  "short_name": "My New Hugo Site",
+  "start_url": "/superkirk3.github.io/",
+  "scope": "/superkirk3.github.io/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/superkirk3.github.io/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
