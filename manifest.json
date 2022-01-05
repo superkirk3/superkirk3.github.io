@@ -1,6 +1,6 @@
 {
-  "name": "My New Hugo Site",
-  "short_name": "My New Hugo Site",
+  "name": "Kirk test ENV",
+  "short_name": "Kirk test ENV",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
